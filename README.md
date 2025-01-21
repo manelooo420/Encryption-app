@@ -3,4 +3,4 @@ Simple app that lets u encrypt stuff, you can use wtv u want since this is my fi
 
 
 
-![Demo](https://raw.githubusercontent.com/manelooo420/Encryption-app/main/the%20gif.gif)
+![Alt Text](https://raw.githubusercontent.com/manelooo420/Encryption-app/main/the%20gif.gif)
